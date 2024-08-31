@@ -1,0 +1,31 @@
+{
+  "name": "swagger-bundle",
+  "version": "1.0.0",
+  "scripts": {},
+  "author": {
+    "email": "mahdifarajideveloper@gmail.com",
+    "name": "Mehdi Faraji",
+    "github": "https://github.com/1mehdifaraji"
+  },
+  "keywords": [
+    "openapi",
+    "open-api",
+    "api",
+    "api-doc",
+    "api-documentation",
+    "documentation",
+    "swagger",
+    "swaggerhub",
+    "swagger-hub",
+    "swagger-cli",
+    "swagger-ui",
+    "yaml",
+    "bundle",
+    "bundler",
+    "merge",
+    "nodejs",
+    "node"
+  ],
+  "license": "MIT",
+  "description": "This project demonstrates how to merge and bundle multiple yaml files for open api swagger."
+}
