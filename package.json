@@ -1,7 +1,9 @@
 {
   "name": "swagger-bundle",
   "version": "1.0.0",
-  "scripts": {},
+  "scripts": {
+    "build": "npx swagger-cli bundle src/openapi.yaml --outfile _build/openapi.yaml --type yaml"
+  },
   "author": {
     "email": "mahdifarajideveloper@gmail.com",
     "name": "Mehdi Faraji",
